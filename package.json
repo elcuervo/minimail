@@ -1,0 +1,24 @@
+{
+  "name": "minimail",
+  "version": "0.0.1",
+  "main": "index.html",
+  "repository": "elcuervo/minimail",
+  "description": "The minimail mail client",
+  "window": {
+    "title": "Slate",
+    "toolbar": true,
+    "frame": true,
+    "width": 1000,
+    "height": 600,
+    "min_width": 400,
+    "min_height": 600,
+    "resizable": true,
+    "position": "center"
+  },
+  "dependencies": {
+    "component-builder": "~0.12.0",
+    "growl": "~1.7.0",
+    "minstache": "~1.1.0",
+    "component": "~0.19.7"
+  }
+}

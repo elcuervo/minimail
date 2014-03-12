@@ -1,0 +1,6 @@
+{
+  "name": "minimail",
+  "paths": ["lib"],
+  "local": ["boot"],
+  "scripts": ["index.js"]
+}

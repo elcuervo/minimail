@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'DejaVu';
+  src: url('fonts/DejaVuSansMono.ttf')  format('truetype')
+}
+
+body {
+  font-family: 'DejaVu'
+}
+
+.i {
+  color: #00c0ff;
+}
+
+#logo {
+  padding-top: 150px
+}
+
+#email_container {
+  padding-top: 150px
+}
