@@ -6,7 +6,8 @@
     "index.js"
   ],
   "fonts": [
-    "fonts/DejaVuSansMono.ttf"
+    "fonts/DejaVuSansMono.ttf",
+    "fonts/DejaVuSansMono-Bold.ttf",
   ],
   "styles": [
     "base.css"
