@@ -1,6 +1,6 @@
 # minimail
 
-!()[http://cl.ly/image/1R2l3x3p0542/Screen%20Shot%202014-03-21%20at%2011.15.07%20AM.png]
+![](http://cl.ly/image/1R2l3x3p0542/Screen%20Shot%202014-03-21%20at%2011.15.07%20AM.png)
 
 ## What it is?
 
