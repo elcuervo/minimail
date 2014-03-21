@@ -1,7 +1,9 @@
 {
   "name": "mailbox",
   "description": "Mailbox handler",
-  "local": [],
+  "local": [
+    "mail"
+  ],
   "scripts": [
     "index.js"
   ],

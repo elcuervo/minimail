@@ -1,0 +1,10 @@
+{
+  "name": "mail",
+  "description": "Mail",
+  "local": [],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+  }
+}
