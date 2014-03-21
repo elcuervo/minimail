@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "main": "index.html",
   "repository": "elcuervo/minimail",
-  "description": "The minimail mail client",
+  "description": "The minimal mail client",
   "window": {
-    "title": "Slate",
+    "title": "minimail",
     "toolbar": true,
     "frame": true,
     "width": 1000,
@@ -20,7 +20,7 @@
     "growl": "~1.7.0",
     "minstache": "~1.1.0",
     "component": "~0.19.7",
-    "imap": "~0.8.9",
-    "mailparser": "~0.4.1"
+    "mailparser": "~0.4.1",
+    "inbox": "~1.1.48"
   }
 }
