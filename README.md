@@ -2,6 +2,12 @@
 
 ![](http://cl.ly/image/1R2l3x3p0542/Screen%20Shot%202014-03-21%20at%2011.15.07%20AM.png)
 
+## Installation
+
+You can't really install it yet.
+Theres a `make build` to create the node-webkit app. Once it's minimally usable
+I'll generate build for the different OSs.
+
 ## What it is?
 
 minimail attempts to be the email client that I want. Without clutter and
