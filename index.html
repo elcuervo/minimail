@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>minimail</title>
+  <script> window.node = window.require; </script>
   <link rel="stylesheet" href="build/build.css">
   <script src="build/build.js"></script>
 </head>
@@ -15,11 +16,17 @@
 
     <div class="row">
       <div id="email_container" class="small-offset-3 small-6 large-6 columns">
-        <input type="text" placeholder="Your email address">
+        <form id="login-form">
+          <input id="email-user" type="text" placeholder="Your email address">
+          <input id="email-pass" type="password" placeholder="Password">
+          <button type="submit">Login</button>
+        </form>
       </div>
     </div>
-
-
   </div>
+
+  <script>
+    minimail();
+  </script>
 </body>
 </html>

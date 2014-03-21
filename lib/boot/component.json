@@ -1,13 +1,15 @@
 {
   "name": "boot",
   "description": "Bootstrap",
-  "local": [],
+  "local": [
+    "mailbox"
+  ],
   "scripts": [
     "index.js"
   ],
   "fonts": [
     "fonts/DejaVuSansMono.ttf",
-    "fonts/DejaVuSansMono-Bold.ttf",
+    "fonts/DejaVuSansMono-Bold.ttf"
   ],
   "styles": [
     "base.css"

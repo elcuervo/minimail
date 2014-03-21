@@ -1,0 +1,11 @@
+{
+  "name": "mailbox",
+  "description": "Mailbox handler",
+  "local": [],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "techjacker/q": "*"
+  }
+}
