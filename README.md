@@ -24,6 +24,6 @@ embeded video. Just text.
 It's not an email client for everyone just for people who value their time and
 content over noise.
 
-## But my grandma does not read Markdown and his Hotmail account it's now called Live and...
+## But my grandma does not read Markdown and her Hotmail account it's now called Live and...
 
 Sorry. There's a gazillion other email clients out there.
